@@ -1,0 +1,42 @@
+.marcas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    height: auto;
+    min-height: 10px;
+  }
+  .marcas__tema {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: auto;
+  }
+  .marcas__titulo {
+    color: black;
+  }
+  .marca__logo {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 90%;
+    height: auto;
+  }
+  .marca-logo {
+    width: 7rem;
+    margin: 0.3rem;
+  }
+  .marca {
+    width: 7rem;
+  }
+
+/* 
+  .marca-logo {
+    width: 7rem;
+    margin: 0.3rem;
+  }
+  .marca {
+    width: 7rem;
+  } */
