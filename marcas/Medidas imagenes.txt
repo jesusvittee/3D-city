@@ -1,0 +1,44 @@
+peso 70kb
+NOTA: no es optimo cargar una imagen de 3 megas
+
+Medidas para pc = 250 x 150 px
+recomendado por shopify = 400 x 100
+	
+recomendado por shopify = 	160 x 40 pixels
+
+70 x 70             33 x 33 pixeles
+100 x 100 pixels	60 x 60 pixels
+
+favicon
+16 x 16 pixeles
+
+icono redes 
+48 x 48
+
+/// Links para encontrar las imagenes en formato png y svg
+
+Creality
+https://mma.prnewswire.com/media/1610133/Logo.jpg?p=publish
+
+Elego
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPgdM5A86JOUw3Oal122EQ3EEkZ9JK7koMy1VAUd3QOw&s
+
+Anycubic
+
+https://store.anycubic.com/cdn/shop/files/logo_bd02d8e8-aff9-433b-b155-bccfa82820b1.png?v=1682047805
+
+Bambu lab
+
+https://www.mexicomakers.com.mx/cdn/shop/files/Logo-green.png?v=1693835078&width=1500
+
+Capricorn
+https://www.captubes.com/resources/website_logo1.png
+
+Artillery
+https://artillery3dprinters.es/wp-content/uploads/2021/12/logo-svg.svg
+
+México Makers
+https://www.mexicomakers.com.mx/cdn/shop/files/mmm.png?v=1693869391&width=4950
+
+Phrozen
+https://keyprint.keystoneindustries.com/wp-content/uploads/2022/03/phrozen-logo.png
